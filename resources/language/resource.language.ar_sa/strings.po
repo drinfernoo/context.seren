@@ -23,27 +23,27 @@ msgstr ""
 #: addon.xml:8 /resources/settings.xml:6
 msgctxt "#30000"
 msgid "Quick Resume Show"
-msgstr "عرض السيرة الذاتية السريعة"
+msgstr "الاستئناف السريع للمسلسل"
 
 #: addon.xml:12 /resources/settings.xml:11
 msgctxt "#30001"
 msgid "Shuffle Play"
-msgstr "التشغيل العشوائي"
+msgstr "التشغيل بشكل عشوائي"
 
 #: addon.xml:16 /resources/settings.xml:16
 msgctxt "#30002"
 msgid "Play From Random Episode"
-msgstr "اللعب من حلقة عشوائية"
+msgstr "التشغيل من حلقة عشوائياً"
 
 #: addon.xml:20 /resources/settings.xml:21
 msgctxt "#30003"
 msgid "Rescrape Item"
-msgstr "عنصر ريسكربي"
+msgstr "إعادة بدء محرك البحث"
 
 #: addon.xml:28 /resources/settings.xml:31
 msgctxt "#30004"
 msgid "Source Select"
-msgstr "تحديد المصدر"
+msgstr "اختيار المصدر (فتح القائمة)"
 
 #: addon.xml:32 /resources/settings.xml:36
 msgctxt "#30005"
@@ -53,7 +53,7 @@ msgstr "البحث عن مشابه"
 #: addon.xml:36 /resources/settings.xml:41
 msgctxt "#30006"
 msgid "Browse Show"
-msgstr "استعراض عرض"
+msgstr "استعراض المسلسل"
 
 #: addon.xml:40 /resources/settings.xml:46
 msgctxt "#30007"
@@ -68,9 +68,9 @@ msgstr "مدير تراكت"
 #: /resources/settings.xml:5
 msgctxt "#30009"
 msgid "General"
-msgstr "الشروط العامة"
+msgstr "عام"
 
 #: addon.xml:24 /resources/settings.xml:26
 msgctxt "#30010"
 msgid "Rescrape and Source Select"
-msgstr "إعادة الكشط وتحديد المصدر"
+msgstr "إعادة بدء محرك البحث مع اختيار المصدر"
